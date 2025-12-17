@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @4HorseItaly
-- 👀### 👋 Hi there, I'm Ta Duc Son!
-
-- 🌐 I'm a Website Developer with over 1 years of experience.
 - 💼 Currently studying at ICTU.
 - 🛠 Proficient in HTML, CSS, JavaScript, and various web development frameworks.
 - 🚀 Passionate about creating interactive and user-friendly web applications.
